@@ -1,0 +1,3 @@
+-- AlterTable
+ALTER TABLE `User` ADD COLUMN `Img` VARCHAR(191) NULL,
+    ADD COLUMN `Phone` INTEGER NULL;
